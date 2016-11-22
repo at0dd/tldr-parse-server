@@ -26,7 +26,8 @@ var dashboard = new ParseDashboard({
         'pass': 'pa$$w0rd',
         'apps': [{'appId': 'AppID'}]
     }],
-    'useEncryptedPasswords': true
+    'useEncryptedPasswords': false,
+    'allowInsecureHTTP': true
 });
 
 var cert = {
