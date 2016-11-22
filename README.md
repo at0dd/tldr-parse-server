@@ -10,7 +10,7 @@ View the full tutorial here: [https://atodd.io/parse-server-and-dashboard-on-ubu
 4. Run install.sh as sudo
 5. After installation, update your index.js file if you haven't done so already.
 
-You can run the following commands for pm2, replacing id with the id of the pm2 id for Parse:
+You can run the following commands for pm2, replacing id with the the pm2 id number for Parse:
 * pm2 status
 * pm2 stop id
 * pm2 restart id
