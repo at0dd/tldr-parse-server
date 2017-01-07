@@ -2,7 +2,7 @@
 A TLDR for setting up Parse Server and Dashboard on Ubuntu. Tested on an Ubuntu 16.04.1 server hosted by DigitalOcean on November 11, 2106. There will be a few prompts as the script runs.
 
 
-View the full tutorial here: [https://atodd.io/parse-server-and-dashboard-on-ubuntu/](https://atodd.io/parse-server-and-dashboard-on-ubuntu/)
+[View the Full Tutorial](https://medium.com/@at0dd/parse-server-and-dashboard-on-ubuntu-4d66b8cdbd84#.l48mxa8u1)
 
 1. Download the install.sh file. You can use the following command: ```curl https://raw.githubusercontent.com/at0dd/tldr-parse-server/master/install.sh > install.sh```
 2. Edit install.sh with information specific to what you want.
