@@ -1,5 +1,5 @@
 # tldr-parse-server
-A TLDR for setting up Parse Server and Dashboard on Ubuntu. Tested on an Ubuntu 16.04.1 server hosted by DigitalOcean on January 14, 2017. There will be a few prompts as the script runs.
+A TLDR for setting up Parse Server and Dashboard on Ubuntu. Tested on an Ubuntu 16.04 server hosted by AWS on June 17, 2018. There will be a few prompts as the script runs.
 
 
 [View the Full Tutorial](https://medium.com/@at0dd/parse-server-and-dashboard-on-ubuntu-4d66b8cdbd84#.l48mxa8u1)
